@@ -14,7 +14,7 @@ use Symfony\Component\Validator\Constraints\DateTime;
 class UserController extends AbstractController
 {
     /**
-     * @Route("/user", name="user")
+     * @Route("user/new", name="user_new")
      */
     public function register(Request $request, UserPasswordEncoderInterface $encoder)
     {
@@ -26,7 +26,7 @@ class UserController extends AbstractController
         $form->handleRequest($request);
 
         //Verificando si los Datos fueron fueron enviados
-        if ($form->isSubmitted()) {
+        if ($form->isSubmitted() && $form->isValid()) {
 
             //Modificando el objeto para guardarlo
             $user->setRole('ROLE_USER');
