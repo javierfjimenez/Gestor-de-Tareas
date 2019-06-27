@@ -4,9 +4,12 @@
     <list default="true" id="d22872c4-d0f1-4ed4-b9d5-cc17ab0d95bf" name="Default Changelist" comment="">
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
 =======
@@ -17,7 +20,10 @@
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/user/register.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/user/register.html.twig" afterDir="false" />
 >>>>>>> 61d5e955b05954378ce56d80f8df66bca3b15985
+<<<<<<< HEAD
 >>>>>>> f6063876bd0f34384f7d21a40b455b2b75243933
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,9 +70,12 @@
         <entry file="file://$PROJECT_DIR$/src/Controller/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="425">
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
             <state relative-caret-position="884">
               <caret line="54" selection-start-line="54" selection-end-line="54" />
 =======
@@ -360,33 +369,48 @@
 =======
       <workItem from="1561558598628" duration="14081000" />
 >>>>>>> 61d5e955b05954378ce56d80f8df66bca3b15985
+<<<<<<< HEAD
 >>>>>>> f6063876bd0f34384f7d21a40b455b2b75243933
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="21318000" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
     <option name="totallyTimeSpent" value="7347000" />
 =======
     <option name="totallyTimeSpent" value="20970000" />
 >>>>>>> 61d5e955b05954378ce56d80f8df66bca3b15985
+<<<<<<< HEAD
 >>>>>>> f6063876bd0f34384f7d21a40b455b2b75243933
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25725028" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
 =======
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25349087" />
 >>>>>>> 61d5e955b05954378ce56d80f8df66bca3b15985
+<<<<<<< HEAD
 >>>>>>> f6063876bd0f34384f7d21a40b455b2b75243933
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -416,9 +440,12 @@
   </component>
   <component name="editorHistoryManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Form/App/Src/EntityType.php" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
     <entry file="file://$PROJECT_DIR$/src/Controller/UserController.php">
 =======
     <entry file="file://$PROJECT_DIR$/src/Form/App/Src/EntityType.php">
@@ -523,10 +550,13 @@
     <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="493">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
         <state relative-caret-position="255">
           <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
 =======
@@ -548,9 +578,12 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/templates/user/register.html.twig">
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
     <entry file="file://$PROJECT_DIR$/src/Repository/TaskRepository.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -580,7 +613,10 @@
         <state relative-caret-position="629">
           <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
 >>>>>>> 61d5e955b05954378ce56d80f8df66bca3b15985
+<<<<<<< HEAD
 >>>>>>> f6063876bd0f34384f7d21a40b455b2b75243933
+=======
+>>>>>>> e8260cd602af6ac75f150389d3165f2ef385a39d
         </state>
       </provider>
     </entry>
