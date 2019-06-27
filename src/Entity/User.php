@@ -63,6 +63,7 @@ class User implements UserInterface
     private $created_at;
     /**
      * @ORM\OneToMany(targetEntity="App\Entity\Task",mappedBy="user")
+     *
      */
 
     private $tasks;
@@ -198,7 +199,8 @@ class User implements UserInterface
     public function getRoles()
     {
         // TODO: Implement getRoles() method.
-        return $this->email;
+        return array('ROLE_USER');
+
     }
 
     /**
@@ -211,6 +213,8 @@ class User implements UserInterface
     public function getSalt()
     {
         // TODO: Implement getSalt() method.
+
+        return null;
     }
 
     /**
@@ -221,6 +225,7 @@ class User implements UserInterface
     public function getUsername()
     {
         // TODO: Implement getUsername() method.
+        return $this->email;
     }
 
     /**
