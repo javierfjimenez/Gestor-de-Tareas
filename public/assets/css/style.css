@@ -1,8 +1,9 @@
 body {
     background: #FFFFFF;
 }
+
 h1,
-h2{
+h2 {
     text-align: center;
 }
 
@@ -83,7 +84,9 @@ label {
 
 input[type="text"],
 input[type="password"],
-input[type="email"] {
+input[type="email"],
+textarea,
+select {
     width: 60%;
     padding: 8px;
     font-size: 16px;
@@ -150,6 +153,7 @@ table td {
     border-radius: 5px;
 
 }
-.data-task{
+
+.data-task {
     color: gray;
 }

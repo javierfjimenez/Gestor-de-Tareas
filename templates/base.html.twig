@@ -16,14 +16,20 @@
 
             {% if app.user %}
                 <li><a href="{{ path('task') }}">Inicio</a></li>
-                <li><a href="">Mis Tareas</a></li>
-                <li><a href="">Crear Tareas</a></li>
+
+                <li><a href="{{ path('my_task') }}">Mis Tareas</a></li>
+
+                <li><a href="{{ path('task_new') }}">Crear Tarea</a></li>
+
                 <li class="right"><a href="{{ path('logout') }}">Cerrar Sesión</a></li>
+
                 <li class="right"><a href="">{{ app.user.name ~ ' ' ~ app.user.lastName }}</a></li>
             {% else %}
+
                 <li><a href="{{ path('login') }}">Login</a></li>
                 <li><a href="{{ path('user_new') }}">Registrar</a></li>
             {% endif %}
+
 
         </ul>
     </div>
