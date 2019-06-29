@@ -17,20 +17,29 @@ class TaskType extends AbstractType
     {
         $builder
             ->add('title', TextType::class, array(
-                'label' => 'Titulo'))
+                'label' => 'Titulo',
+                'attr' => ['class' => 'form-control']
+            ))
             ->add('content', TextareaType::class, array(
-                'label' => 'Contenido'))
+                'label' => 'Contenido',
+                'attr' => ['class' => 'form-control']
+            ))
             ->add('priority', ChoiceType::class, array(
                 'label' => 'Prioridad',
+                'attr' => ['class' => 'custom-select mr-sm-2 col-2 float-left padding-5'],
                 'choices' => array(
                     'Alta' => 'HIGH',
                     'Media' => 'MEDIUM',
                     'Baja' => 'LOW'
+
                 )))
             ->add('hours', TextType::class, array(
-                'label' => 'Horas Presupuestadas'))
+                'label' => 'Horas Presupuestadas',
+                'attr' => ['class' => 'form-control']
+            ))
             ->add('submit', SubmitType::class, array(
-                'label' => 'Guardar'
+                'label' => 'Guardar',
+                'attr' => ['class' => 'btn btn-primary']
             ));
     }
 
